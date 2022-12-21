@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecolorConsole", "RecolorConsole\RecolorConsole.csproj", "{5FD2243B-7346-4194-9E62-79F24F76B15A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD2243B-7346-4194-9E62-79F24F76B15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD2243B-7346-4194-9E62-79F24F76B15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD2243B-7346-4194-9E62-79F24F76B15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD2243B-7346-4194-9E62-79F24F76B15A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D9D602-DCBA-40A0-8DF6-12A13AC48FB8}
+	EndGlobalSection
+EndGlobal
